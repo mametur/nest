@@ -1,0 +1,6 @@
+1 – What is a Decorator? https://progressivecoder.com/how-to-create-a-nestjs-custom-decorator/
+Decorators are quite common in many programming languages. However, they are relatively new in the world of Javascript.
+
+A decorator is an expression that returns a function. It can take a target, name and property descriptor as arguments. We apply a decorator with an @ character and place it at the top of what we are trying to decorate.
+
+We can define decorators for class, method or a property.
